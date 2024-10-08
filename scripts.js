@@ -1,1 +1,2 @@
 !DynamicsCompressorNode
+var script = ""
